@@ -1,0 +1,24 @@
+{
+    "development": {
+        "username": "postgres",
+        "password": "068999",
+        "database": "iskcon-bhiwandi",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "test": {
+        "username": "postgres",
+        "password": "harekrishna",
+        "database": "iskcon-bhiwandi",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "postgres",
+        "password": "harekrishna",
+        "database": "iskcon-bhiwandi",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    }
+  }
+  
